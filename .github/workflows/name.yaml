@@ -13,3 +13,4 @@ jobs:
           asoc_key: ${{secrets.ASOC_KEY}}
           asoc_secret: ${{secrets.ASOC_SECRET}}
           application_id: fc4e3aa4-427b-494f-9dcc-8709450c120a
+          wait_for_analysis: true 
